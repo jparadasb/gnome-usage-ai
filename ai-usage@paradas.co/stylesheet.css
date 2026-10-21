@@ -1,0 +1,77 @@
+.ai-usage-panel-label {
+  margin-left: 4px;
+  font-feature-settings: "tnum";
+}
+
+.ai-usage-provider {
+  spacing: 6px;
+  min-width: 260px;
+}
+
+.ai-usage-title {
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
+.ai-usage-badge {
+  font-size: 0.75em;
+  font-weight: bold;
+  padding: 1px 6px;
+  border-radius: 6px;
+  background-color: rgba(127, 127, 127, 0.25);
+}
+
+.ai-usage-window {
+  spacing: 3px;
+}
+
+.ai-usage-trough {
+  height: 6px;
+  border-radius: 3px;
+  background-color: rgba(127, 127, 127, 0.3);
+}
+
+.ai-usage-fill {
+  height: 6px;
+  border-radius: 3px;
+}
+
+.ai-usage-stat {
+  margin-top: 4px;
+}
+
+.ai-usage-dim {
+  font-size: 0.85em;
+  color: rgba(200, 200, 200, 0.75);
+}
+
+.ai-usage-ok { color: #57e389; }
+.ai-usage-warn { color: #f6d32d; }
+.ai-usage-crit { color: #ff7b63; }
+.ai-usage-ok-bg { background-color: #57e389; }
+.ai-usage-warn-bg { background-color: #f6d32d; }
+.ai-usage-crit-bg { background-color: #ff7b63; }
+
+.ai-usage-spark-wrap {
+  spacing: 2px;
+  margin-top: 4px;
+}
+
+.ai-usage-spark {
+  spacing: 6px;
+}
+
+.ai-usage-spark-col {
+  width: 24px;
+}
+
+.ai-usage-spark-bar {
+  border-radius: 2px;
+  background-color: #78aeed;
+}
+
+.ai-usage-spark-day {
+  font-size: 0.75em;
+  text-align: center;
+  color: rgba(200, 200, 200, 0.6);
+}
