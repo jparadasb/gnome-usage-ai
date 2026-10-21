@@ -3,6 +3,6 @@
   "name": "AI Usage",
   "description": "Shows Claude Code and Codex rate-limit usage in the top bar, with details in a dropdown.",
   "shell-version": ["45", "46", "47", "48", "49", "50"],
-  "url": "https://github.com/jparadas/gnome-usage-ai",
+  "url": "https://github.com/jparadasb/gnome-usage-ai",
   "version": 1
 }

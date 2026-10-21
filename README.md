@@ -36,3 +36,7 @@ Symlinks the extension into `~/.local/share/gnome-shell/extensions/`. On Wayland
 log out and back in, then `gnome-extensions enable ai-usage@paradas.co`.
 
 Logs: `journalctl --user -f -o cat /usr/bin/gnome-shell`.
+
+## License
+
+MIT
